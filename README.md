@@ -90,7 +90,7 @@ Yes, the solution is scalable, as it can be expanded to recognize more sign lang
   
 # Steps To Run The Project : 
  **step 1 : Clone the repository:**
- git clone https://github.com/yourusername/sign-language-recognition.git
+ git clone https://https://github.com/Mrunalkhanke/Sign-Language-Detection-
 
  **Step 2: Navigate to the project directory:**
  cd sign-language-recognition
