@@ -8,8 +8,7 @@ The problem statement involves developing a machine learning model to recognize 
 This project aims to develop a robust sign language recognition system using Python and OpenCV, leveraging a Convolutional Neural Network (CNN) with the Pre-Trained SSD MobileNet V2 architecture. 
 The system is designed to recognize signs with 70-80% accuracy in various environments, facilitating communication for the deaf community and aiding learners in practicing sign language.
 
-You Can View DEMO VIDEO .
-
+You can view [Demo video](https://drive.google.com/file/d/1FGzaVH7WWBe-hBcguFbSeC0x8rzJFwiV/view?usp=drive_link)
 # Screenshots :
 ![Group 9 (1)](https://github.com/Mrunalkhanke/Sign-Language-Detection-/assets/136327297/4163b208-269e-4ca3-8712-45ce65398c77)
 
