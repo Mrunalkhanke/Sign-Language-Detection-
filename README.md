@@ -94,12 +94,11 @@ Yes, the solution is scalable, as it can be expanded to recognize more sign lang
  **Step 2: Navigate to the project directory:**
  cd sign-language-recognition
 
-**Step 3 : Run the inference script:**
-python inference_classifier.py
-
-**Step 4 :Run the training script:** 
+**Step 3 :Run the training script:** 
 python train_classifier.py
 
+**Step 4 : Run the inference script:**
+python inference_classifier.py
 
 
 
