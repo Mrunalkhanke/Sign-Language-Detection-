@@ -4,6 +4,9 @@
 # Problem Statement 
 The problem statement involves developing a machine learning model to recognize sign language using Python and OpenCV. The model will process video or image inputs to detect and interpret hand gestures representing different signs. This will facilitate communication for individuals with hearing impairments by translating sign language into text or speech.
 
+![Sign Language Gestures](https://github.com/Mrunalkhanke/Sign-Language-Detection-/assets/136327297/c6201aa8-b3ee-462c-aac6-d32f85f0cc74)
+
+
 # Proposed Solution 
 This project aims to develop a robust sign language recognition system using Python and OpenCV, leveraging a Convolutional Neural Network (CNN) with the Pre-Trained SSD MobileNet V2 architecture. 
 The system is designed to recognize signs with 70-80% accuracy in various environments, facilitating communication for the deaf community and aiding learners in practicing sign language.
