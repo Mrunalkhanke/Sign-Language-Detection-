@@ -91,6 +91,11 @@ Yes, the solution is scalable, as it can be expanded to recognize more sign lang
 3. **User Feedback Integration**: Incorporate real-time user feedback to refine the system and address practical challenges in diverse environments.
 4. **Cross-Platform Deployment**: Develop mobile and web applications to increase accessibility and usability across different devices and operating systems.
 5. **Real-Time Translation**: Implement real-time text or speech translation to facilitate seamless communication between sign language users and non-users.
+
+### Currently, I am developing the design of an application where users can learn sign language through interactive modules and practice sessions. Integrate the sign language detection and translation model to facilitate real-time conversations between sign language users and learners, providing practical learning opportunities and enhancing communication accessibility.
+
+### [Figma Application Prototype ] 
+https://www.figma.com/proto/dx8QxF5wYCyAy8hggaOaZA/Vani---Demo-Design?node-id=2-2&t=NKToZzjfwmvMwJS1-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A2
   
 # Steps To Run The Project : 
  **step 1 : Clone the repository:**
